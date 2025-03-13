@@ -5,21 +5,20 @@ An automation script designed to streamline tasks such as file organization, sys
 Table of Contents
 
 
-Overview
+1) Overview
 
-Features
+2) Features
 
-Project Structure
+3) Project Structure
 
-Getting Started
+3) Getting Started
 
-Usage
+4) Usage
 
-Contributing
+5) Contributing
 
-License
+6) License
 
-Contact
 
 
 
