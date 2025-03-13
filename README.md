@@ -22,6 +22,9 @@ License
 Contact
 
 
+
+
+
 Overview
 
 This project automates repetitive tasks and showcases how to set up a well-structured Python repository with a clear folder hierarchy. It contains:
@@ -33,6 +36,9 @@ Optional environment setup instructions in requirements.txt (if you choose to ad
 A .gitignore file (optional), ensuring unnecessary files aren’t committed.
 
 A LICENSE file (if present) to specify usage rights and open-source compliance.
+
+
+
 
 
 Features
