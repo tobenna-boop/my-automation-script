@@ -1,4 +1,4 @@
-# my-automation-script
+# My-Automation-Script
 An automation script designed to streamline tasks such as file organization, system setup, and more. This repository demonstrates best practices for structuring and documenting a Python-based project.
 
 
