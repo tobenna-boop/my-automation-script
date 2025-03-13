@@ -2,6 +2,7 @@
 An automation script designed to streamline tasks such as file organization, system setup, and more. This repository demonstrates best practices for structuring and documenting a Python-based project.
 
 Table of Contents
+
 Overview
 Features
 Project Structure
@@ -10,7 +11,9 @@ Usage
 Contributing
 License
 Contact
+
 Overview
+
 This project automates repetitive tasks and showcases how to set up a well-structured Python repository with a clear folder hierarchy. It contains:
 
 A main script in src/ for core functionality.
